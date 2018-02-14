@@ -3,3 +3,4 @@ node_ip.txt
 .DS_Store
 .ipynb_checkpoints/EthereumExplorer-checkpoint.ipynb
 *.txt
+.DS_Store
